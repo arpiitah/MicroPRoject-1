@@ -1,0 +1,153 @@
+<style>
+
+#body{
+    margin: none;
+}
+
+
+
+        #part1{
+            margin: 0;
+            background-color: #ffcd9e;
+            height: 70vh;
+        }
+
+        #part2{
+            margin: 0;
+            background-color: black;
+            height: 30vh;
+        } 
+
+        #dev{
+            float: right;
+            height: 350px;
+            width: 230px;
+            margin-right: 20px;
+            margin-top: 15px;
+            position: fixed;
+			top: 0;
+			right: 0;
+            
+        }
+
+        #p1{
+            font-family: 'Inter', sans-serif;
+            font-size: 34px;
+            line-height: 54px;
+            font-weight: 700;
+            height: 108px;
+            width: 562px;
+            margin-left: 20px;
+        }
+
+        #p2{
+            font-family: 'Inter', sans-serif;
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 300;
+            height: 81px;
+            width: 495px;
+            margin-left: 20px;
+            
+        }
+        #p3{
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-left: 20px;
+        }
+
+        .paragraph-container {
+			display: flex;
+		}
+		.paragraph-container p {
+			display: inline-block;
+			width: 50%;
+		}
+
+        #email{
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;
+        border-color: black;
+        padding: 10px;
+        margin-left: 10px;
+        background-color: white;
+        border-radius: 5px;
+        width:fit-content;
+        border-width: 2px;
+        outline: black;
+        }
+
+        #reg{
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;
+        padding: 10px;
+        color: white;
+        background-color: black;
+        border-radius: 5px;
+        width:fit-content;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+
+        }
+
+        #spam{
+        font-family: 'Inter', sans-serif;
+        font-size: 12px;
+        color: white;
+        margin-left: 10px;
+        width:fit-content;
+
+        }
+
+        #p4{
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
+            font-weight: 400;
+            color: white;
+            margin-bottom: 40px;
+            margin-left: 10px;
+            text-orientation: sideways;
+            position: fixed; bottom: 0; width:100%; text-align: center"
+            }
+
+        #p5{
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
+            font-weight: 400;
+            color: white;
+            margin-right: 25px;
+            margin-bottom: 30px;
+            text-orientation: sideways-right;
+            position: fixed;
+			bottom: 20px;
+			right: 0;
+            }
+
+            .image-container {
+                display: inline-block;
+                position: fixed;
+                bottom: 16px;
+                right: 120px;
+                margin-right: 20px;
+            }
+
+            #p5{
+                font-family: 'Inter', sans-serif;
+                font-size: 10px;
+                font-weight: 400;
+                color: white;
+                margin-right: 25px;
+                margin-bottom: 5px;
+                text-orientation: sideways-right;
+                position: fixed;
+                bottom: 20px;
+                right: 0;
+                }
+            
+
+       
